@@ -1,0 +1,13 @@
+ID	ARO_Index	Gene	pident	alignment_length	mismatches	gap_opens	q_start	q_end	s_start	s_end	evalue	bit_score	Resistance Class	Gene Family	Variant
+U00096.3	3000027	emrA	100.0	1173	0	0	2811427	2812599	1	1173	0.0	2167	Efflux Pump Resistance	mex, emr	mexB, emrA
+U00096.3	3004290	Ecol_ampC_BLA	100.0	1134	0	0	4377811	4378944	1134	1	0.0	2095	Beta-lactam Resistance	ampC, TEM, CMY, OXA, CARB, MIR, ACT, NDM, VIM, SHV, KPC, IMP	TEM-1, CMY-12, OXA-48, Ecol_ampC_BLA, CARB-58, MIR-1
+BA000007.3	3000027	emrA	99.233	1173	9	0	3535712	3536884	1	1173	0.0	2117	Efflux Pump Resistance	mex, emr	mexB, emrA
+BA000007.3	3004290	Ecol_ampC_BLA	97.354	1134	30	0	5232218	5233351	1134	1	0.0	1929	Beta-lactam Resistance	ampC, TEM, CMY, OXA, CARB, MIR, ACT, NDM, VIM, SHV, KPC, IMP	TEM-1, CMY-12, OXA-48, Ecol_ampC_BLA, CARB-58, MIR-1
+CP000243.1	3000027	emrA	97.954	1173	24	0	2968165	2969337	1	1173	0.0	2034	Efflux Pump Resistance	mex, emr	mexB, emrA
+CP000243.1	3004290	Ecol_ampC_BLA	97.619	1134	27	0	4649610	4650743	1134	1	0.0	1945	Beta-lactam Resistance	ampC, TEM, CMY, OXA, CARB, MIR, ACT, NDM, VIM, SHV, KPC, IMP	TEM-1, CMY-12, OXA-48, Ecol_ampC_BLA, CARB-58, MIR-1
+CP024138.1	3000027	emrA	98.039	1173	23	0	1207742	1208914	1173	1	0.0	2039	Efflux Pump Resistance	mex, emr	mexB, emrA
+CP024138.1	3004290	Ecol_ampC_BLA	96.737	1134	37	0	4297557	4298690	1	1134	0.0	1890	Beta-lactam Resistance	ampC, TEM, CMY, OXA, CARB, MIR, ACT, NDM, VIM, SHV, KPC, IMP	TEM-1, CMY-12, OXA-48, Ecol_ampC_BLA, CARB-58, MIR-1
+CP024140.1	3000165	tet(A)	100.0	1275	0	0	58412	59686	1275	1	0.0	2355	Tetracycline Resistance	tet	tet(A), tet(B)
+CP024140.1	3000873	TEM-1	99.768	861	2	0	63624	64484	861	1	0.0	1580	Beta-lactam Resistance	ampC, TEM, CMY, OXA, CARB, MIR, ACT, NDM, VIM, SHV, KPC, IMP	TEM-1, CMY-12, OXA-48, Ecol_ampC_BLA, CARB-58, MIR-1
+CP024140.1	3000412	sul2	100.0	816	0	0	62647	63462	816	1	0.0	1507	Sulfonamide Resistance	sul	sul1, sul2
+CP024140.1	3002639	APH(3'')-Ib	99.751	804	2	0	61783	62586	804	1	0.0	1474	Aminoglycoside Resistance	AAC, APH,aadA	AAC(3)-Ib, APH(3'')-Ib, AADa1

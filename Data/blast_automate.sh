@@ -11,6 +11,6 @@ for genome in GCA*.fna; do
 done
 
 # Concatenate all blast output files into a single file
-cat *_blast_results.txt > combined_amr_gene_hits.txt
+cat *_blast_results.txt > combined_blast_results.txt
 
-echo "All BLAST outputs have also been combined into 'combined_amr_gene_hits.txt'."
+echo "All BLAST outputs have also been combined into 'combined_blast_results.txt'."
